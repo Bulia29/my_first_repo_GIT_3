@@ -1,0 +1,4 @@
+Porównano commity 7ce ... i aa4... (najstarszy i najnowszy)
+Różnice występują w dwóch plikach: drugi_plik.txt i nowy_plik.txt
+W drugi_plik.txt - dodano dwie linie: pierwsza lorem ipsum, druga pusta
+W nowy_plik.txt dodano linijkę "hello world"
