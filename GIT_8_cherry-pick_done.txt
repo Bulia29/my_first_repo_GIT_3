@@ -1,0 +1,20 @@
+* d25dac5 Add GIT_8_cherry-pick.txt
+* 10f048a add GIT_8_rebase.txt
+* df9b8b7 add GIT_8_brnch.txt and GIT_8_status.txt and GIT_8_stan.txt
+*   fe3a9f6 Merge branch 'test'
+|\  
+| * 2ac68e4 add GIT_8_diff.txt
+| * c709263 add GIT_8_log.txt
+* | 538317e Add GIT_8_stash_list.txt
+* | cc98246 add GIT_7_branch.txt
+* | 6b343cc Merge branch 'test'
+|\| 
+| * 38d0b7e modified README.md
+| * 97a5bd5 add GIT_7_log.txt, GIT_7_ls.txt, GIT_7_status.txt
+* | 237fa5b modified README.md
+|/  
+* c97825b add GIT_6_log.txt, GIT_6_log_onelie.txt, GIT_6_show.txt
+* 1194be2 added GIT_5_diff.txt
+* c337f59 Added README.md
+* 69d9e74 Added GIT_4_restore.txt, GIT_4_status3.txt, Hello-world, modified GIT_4_status2.tx
+* 50bad2c Added GIT_1_idea.txt, GIT_2_version.txt, GIT_4_status*.txt
