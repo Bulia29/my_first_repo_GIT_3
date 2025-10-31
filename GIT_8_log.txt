@@ -1,0 +1,41 @@
+commit 38d0b7e06f7ed47316ae5008cd6796b6bb808b9d
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:57:58 2025 +0100
+
+    modified README.md
+
+commit 97a5bd50ff626a4201dfb707c9d17ee97ed3cac5
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:52:17 2025 +0100
+
+    add GIT_7_log.txt, GIT_7_ls.txt, GIT_7_status.txt
+
+commit c97825b1b5e5ffcb1bf90aa7e7b84a46529faef9
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:43:17 2025 +0100
+
+    add GIT_6_log.txt, GIT_6_log_onelie.txt, GIT_6_show.txt
+
+commit 1194be22f07a0093377e2f03777c95a7f297dfdb
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:37:41 2025 +0100
+
+    added GIT_5_diff.txt
+
+commit c337f596a7b297ad43124f4d2025f870a4e68ab7
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:21:06 2025 +0100
+
+    Added README.md
+
+commit 69d9e74c7eb7e478e734cf1822eb24bb51ea0a2e
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:18:23 2025 +0100
+
+    Added GIT_4_restore.txt, GIT_4_status3.txt, Hello-world, modified GIT_4_status2.tx
+
+commit 50bad2cfe3093dfaa9a30572cd8457d9cfa6e28c
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:04:36 2025 +0100
+
+    Added GIT_1_idea.txt, GIT_2_version.txt, GIT_4_status*.txt
