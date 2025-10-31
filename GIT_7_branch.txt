@@ -1,0 +1,11 @@
+*   6b343cc Merge branch 'test'
+|\  
+| * 38d0b7e modified README.md
+| * 97a5bd5 add GIT_7_log.txt, GIT_7_ls.txt, GIT_7_status.txt
+* | 237fa5b modified README.md
+|/  
+* c97825b add GIT_6_log.txt, GIT_6_log_onelie.txt, GIT_6_show.txt
+* 1194be2 added GIT_5_diff.txt
+* c337f59 Added README.md
+* 69d9e74 Added GIT_4_restore.txt, GIT_4_status3.txt, Hello-world, modified GIT_4_status2.tx
+* 50bad2c Added GIT_1_idea.txt, GIT_2_version.txt, GIT_4_status*.txt
