@@ -1,0 +1,2 @@
+Tworzenie gry komputerowej - developerzy mogą pracować równolegle nad różnymi aspektami gry,
+ niezależnie naprawiać bugi, pracować nad nowymi updatami itp.
