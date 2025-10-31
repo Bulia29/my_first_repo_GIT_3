@@ -1,0 +1,23 @@
+commit 1194be22f07a0093377e2f03777c95a7f297dfdb
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:37:41 2025 +0100
+
+    added GIT_5_diff.txt
+
+commit c337f596a7b297ad43124f4d2025f870a4e68ab7
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:21:06 2025 +0100
+
+    Added README.md
+
+commit 69d9e74c7eb7e478e734cf1822eb24bb51ea0a2e
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:18:23 2025 +0100
+
+    Added GIT_4_restore.txt, GIT_4_status3.txt, Hello-world, modified GIT_4_status2.tx
+
+commit 50bad2cfe3093dfaa9a30572cd8457d9cfa6e28c
+Author: Julia Sobieska <julia.a.sobieska@gmail.com>
+Date:   Fri Oct 31 14:04:36 2025 +0100
+
+    Added GIT_1_idea.txt, GIT_2_version.txt, GIT_4_status*.txt
