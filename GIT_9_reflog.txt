@@ -1,0 +1,36 @@
+49598b1 HEAD@{0}: commit: add GIT_9_reset.txt
+74d22c4 HEAD@{1}: reset: moving to HEAD~1
+41582cc HEAD@{2}: commit: add GIT_9_log.txt
+74d22c4 HEAD@{3}: commit: After cherry pick
+d25dac5 HEAD@{4}: cherry-pick: Add GIT_8_cherry-pick.txt
+10f048a HEAD@{5}: checkout: moving from test to master
+00e721c HEAD@{6}: commit: Add GIT_8_cherry-pick.txt
+2ac68e4 HEAD@{7}: checkout: moving from master to test
+10f048a HEAD@{8}: commit: add GIT_8_rebase.txt
+df9b8b7 HEAD@{9}: rebase (finish): returning to refs/heads/master
+df9b8b7 HEAD@{10}: rebase (squash): add GIT_8_brnch.txt and GIT_8_status.txt and GIT_8_stan.txt
+e2525d0 HEAD@{11}: rebase (start): checkout HEAD~2
+d506c2c HEAD@{12}: commit: Add GIT_8_stan.txt
+e2525d0 HEAD@{13}: commit: add GIT_8_brnch.txt and GIT_8_status.txt
+fe3a9f6 HEAD@{14}: merge test: Merge made by the 'ort' strategy.
+538317e HEAD@{15}: checkout: moving from test to master
+2ac68e4 HEAD@{16}: commit: add GIT_8_diff.txt
+c709263 HEAD@{17}: commit: add GIT_8_log.txt
+38d0b7e HEAD@{18}: checkout: moving from master to test
+538317e HEAD@{19}: commit: Add GIT_8_stash_list.txt
+cc98246 HEAD@{20}: reset: moving to HEAD
+cc98246 HEAD@{21}: commit: add GIT_7_branch.txt
+6b343cc HEAD@{22}: commit (merge): Merge branch 'test'
+237fa5b HEAD@{23}: checkout: moving from test to master
+38d0b7e HEAD@{24}: commit: modified README.md
+97a5bd5 HEAD@{25}: checkout: moving from test to test
+97a5bd5 HEAD@{26}: checkout: moving from master to test
+237fa5b HEAD@{27}: commit: modified README.md
+c97825b HEAD@{28}: checkout: moving from test to master
+97a5bd5 HEAD@{29}: commit: add GIT_7_log.txt, GIT_7_ls.txt, GIT_7_status.txt
+c97825b HEAD@{30}: checkout: moving from master to test
+c97825b HEAD@{31}: commit: add GIT_6_log.txt, GIT_6_log_onelie.txt, GIT_6_show.txt
+1194be2 HEAD@{32}: commit: added GIT_5_diff.txt
+c337f59 HEAD@{33}: commit: Added README.md
+69d9e74 HEAD@{34}: commit: Added GIT_4_restore.txt, GIT_4_status3.txt, Hello-world, modified GIT_4_status2.tx
+50bad2c HEAD@{35}: commit (initial): Added GIT_1_idea.txt, GIT_2_version.txt, GIT_4_status*.txt
