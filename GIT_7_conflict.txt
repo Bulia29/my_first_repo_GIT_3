@@ -6,5 +6,8 @@ Julia Sobieska
 
 5192
 
+<<<<<<< HEAD
 Praca z gałęziami i rozwiązywanie konfliktów
-
+=======
+Tym wpisem chcemy spowodować konflikt
+>>>>>>> test
